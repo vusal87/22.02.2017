@@ -1,0 +1,129 @@
+html,body{
+	padding: 0px;
+	margin: 0px
+/*.wrapper{*/
+	padding: 5px;
+}
+
+.logo{
+	width: 100%;
+	height: 100%;
+	}
+.social i{
+	color: grey;
+	margin-left: 5px;
+}
+
+}
+.nav {
+	width: 100px;
+	height: 50px;
+}
+.nav a{
+	text-decoration: none;
+	font-size: 15px;
+	margin-left:15px;
+	color: black
+}
+.slider .col12{
+	width: 100%;
+	height: 100%;
+}
+.sliderun .col12{
+	/*width: 100%;*/
+	height: 100px;
+	margin: 25px;
+text-align: center;
+}
+.sliderun .col12 .col3 i {
+	width: 20px;
+	height: 20px;
+	background:grey;
+	font-size: 20px;
+	margin: 5px;
+	padding: 5px;
+	border-radius:100%;
+}
+.text .col12{
+	text-align: center;
+
+	font-size: 30px;
+}
+text .col12 p {
+	font-weight: bold;
+	font-size: 40px;
+}
+.text div:firsth-child> p {
+text-transform:uppercase;
+font-size: bold;
+}
+.counter3 .col6 span{
+	color: lightgrey; 
+}
+/*.counter2 .col12 .col3 .col3.sol{
+	width: 120px;
+	height: 60px;
+	background: red;
+	border-radius: 100%;
+
+}
+.counter2 .col12 .col3 .col3.sol .sol1{
+text-align: center;
+	padding-top: 15px;
+}
+
+.counter2 .col12 .col3 .col3{
+	text-align: center;
+	padding-top: 15px;
+
+}
+.counter2 .col12 .col3 .col9{
+	color: red;
+}
+.counter2 .col12 .col6 span {
+	color: lightgrey;
+}
+.counter2 .col12 .col3 .col9 p{
+	color: lightgreen
+}*/
+.counter2 .col12 .col3 .col3{
+	border-radius: 100%;
+	background: grey;
+	text-align: center;
+	padding-top: 8px 10px;
+}
+.counter2 .col12 .col3 .col9 p {
+	color: red;
+}
+.counter2 .col12 .col3 .col7 p {
+	color: red;
+}
+.counter2 .col12 .col3 span{
+	color: grey;
+}
+.counter2 .col12 .col3 .col2 {
+	width:100%;
+	color:grey;
+	
+}
+.counter3 .col12 .col3 span{
+color: grey;
+} 
+.counter4 .col12{
+	height: 100px;
+	width: 100%;
+	border-bottom:15px 
+	color:black;
+
+}
+.counter4 .col12 .col3 firsth-child{
+	width: 100%;
+	height: 700px;
+}
+.counter4 .col12 .col3 i{
+	color: red;
+}
+.counter4 .col12 .col3 last-child{
+	width: 300px;
+	height: 400px;
+}
